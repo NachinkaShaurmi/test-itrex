@@ -1,0 +1,20 @@
+.App {
+  width: 100%;
+  height: calc(100vh - 3rem);
+}
+
+.main-table {
+  margin: 3rem auto 0;
+}
+
+.main-table__caption {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 10px;
+
+}
+.main-table__head {
+  font-size: 18px;
+  font-weight: normal;
+  padding: 6px;
+}
